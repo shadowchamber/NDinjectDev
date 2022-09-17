@@ -22,6 +22,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NDinject.wiki", "NDinject.w
 		NDinject.wiki\Quick-Start-Guide.md = NDinject.wiki\Quick-Start-Guide.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{FEF1CCA8-8DE8-4D92-8BB8-FD979DC3544F}"
+	ProjectSection(SolutionItems) = preProject
+		Tools\mapcloud.ps1 = Tools\mapcloud.ps1
+		Tools\unmapcloud.ps1 = Tools\unmapcloud.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
