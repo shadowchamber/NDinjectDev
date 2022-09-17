@@ -7,3 +7,6 @@
 [submodule "NDinject"]
 	path = NDinject
 	url = https://github.com/shadowchamber/NDinject.git
+[submodule "NDinject.wiki"]
+	path = NDinject.wiki
+	url = https://github.com/shadowchamber/NDinject.wiki.git

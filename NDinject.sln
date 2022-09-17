@@ -13,6 +13,13 @@ EndProject
 Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "NDinjectTests (ISV) [NDinjectTests]", "NDinjectTests\Projects\NDinjectTests\NDinjectTests.rnrproj", "{162BD65E-B4EA-496E-B46A-D33FFB36A004}"
 	ProjectSection(ProjectDependencies) = postProject
 		{66C8636F-5B46-4908-AE26-755A82D0DDD4} = {66C8636F-5B46-4908-AE26-755A82D0DDD4}
+		{18FF67D2-4DD9-4458-8FC1-198492BE81B4} = {18FF67D2-4DD9-4458-8FC1-198492BE81B4}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NDinject.wiki", "NDinject.wiki", "{92167D1D-C0DC-4CF0-B93A-93D41FC1E206}"
+	ProjectSection(SolutionItems) = preProject
+		NDinject.wiki\Home.md = NDinject.wiki\Home.md
+		NDinject.wiki\Quick-Start-Guide.md = NDinject.wiki\Quick-Start-Guide.md
 	EndProjectSection
 EndProject
 Global
