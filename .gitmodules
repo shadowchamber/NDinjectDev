@@ -1,0 +1,9 @@
+[submodule "NDinjectExamples"]
+	path = NDinjectExamples
+	url = https://github.com/shadowchamber/NDinjectExamples.git
+[submodule "NDinjectTests"]
+	path = NDinjectTests
+	url = https://github.com/shadowchamber/NDinjectTests.git
+[submodule "NDinject"]
+	path = NDinject
+	url = https://github.com/shadowchamber/NDinject.git
